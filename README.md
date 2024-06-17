@@ -1,1 +1,2 @@
-# HW-projekt-lampa
+# IrRgbLed
+Úkol do HW
